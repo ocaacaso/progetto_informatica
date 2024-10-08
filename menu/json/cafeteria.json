@@ -1,0 +1,98 @@
+{
+  "coffees": [
+    {
+      "name": "Espresso",
+      "description": "Caffè forte e concentrato, servito in una tazzina piccola.",
+      "price": 1.50
+    },
+    {
+      "name": "Cappuccino",
+      "description": "Caffè espresso con latte montato a vapore e schiuma di latte.",
+      "price": 2.50
+    },
+    {
+      "name": "Latte Macchiato",
+      "description": "Latte caldo con una piccola quantità di caffè espresso.",
+      "price": 3.00
+    },
+    {
+      "name": "Caffè Americano",
+      "description": "Caffè espresso diluito con acqua calda, per un gusto più leggero.",
+      "price": 2.00
+    },
+    {
+      "name": "Mocha",
+      "description": "Caffè espresso con cioccolato caldo, latte montato a vapore e panna.",
+      "price": 3.50
+    },
+    {
+      "name": "Caffè Macchiato",
+      "description": "Caffè espresso con una piccola quantità di latte montato.",
+      "price": 1.80
+    }
+  ],
+  "teas": [
+    {
+      "name": "Tè Verde",
+      "description": "Tè leggero e rinfrescante, ricco di antiossidanti.",
+      "price": 2.00
+    },
+    {
+      "name": "Tè Nero",
+      "description": "Tè classico dal gusto intenso, perfetto con o senza latte.",
+      "price": 2.00
+    },
+    {
+      "name": "Tè alla Menta",
+      "description": "Tè aromatico con foglie di menta fresca.",
+      "price": 2.50
+    },
+    {
+      "name": "Tè al Gelsomino",
+      "description": "Tè verde aromatizzato con fiori di gelsomino.",
+      "price": 2.50
+    },
+    {
+      "name": "Tè alla Camomilla",
+      "description": "Infuso calmante di fiori di camomilla.",
+      "price": 2.00
+    },
+    {
+      "name": "Tè al Limone",
+      "description": "Tè nero con succo di limone fresco.",
+      "price": 2.50
+    }
+  ],
+  "herbal_teas": [
+    {
+      "name": "Infuso di Zenzero e Limone",
+      "description": "Tisana rinfrescante e digestiva con zenzero e limone.",
+      "price": 3.00
+    },
+    {
+      "name": "Infuso di Frutti di Bosco",
+      "description": "Tisana dal gusto fruttato con una miscela di frutti di bosco.",
+      "price": 3.00
+    },
+    {
+      "name": "Infuso di Camomilla",
+      "description": "Tisana rilassante a base di fiori di camomilla.",
+      "price": 2.50
+    },
+    {
+      "name": "Infuso di Finocchio",
+      "description": "Tisana digestiva e rinfrescante a base di semi di finocchio.",
+      "price": 2.50
+    },
+    {
+      "name": "Infuso di Menta Piperita",
+      "description": "Tisana rinfrescante e aromatica a base di menta piperita.",
+      "price": 3.00
+    },
+    {
+      "name": "Infuso di Rooibos",
+      "description": "Tisana dal gusto dolce e nocciolato, naturalmente priva di caffeina.",
+      "price": 3.00
+    }
+  ]
+}

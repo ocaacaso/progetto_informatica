@@ -1,0 +1,64 @@
+{
+  "spirits": [
+    {
+      "name": "Whiskey",
+      "description": "Whiskey scozzese invecchiato 12 anni, dal gusto intenso e affumicato.",
+      "price": 8.00
+    },
+    {
+      "name": "Vodka",
+      "description": "Vodka russa, pura e cristallina, dal sapore morbido.",
+      "price": 7.00
+    },
+    {
+      "name": "Gin",
+      "description": "Gin londinese con note di ginepro e agrumi.",
+      "price": 7.50
+    },
+    {
+      "name": "Rum",
+      "description": "Rum caraibico invecchiato, dal gusto ricco e speziato.",
+      "price": 8.00
+    },
+    {
+      "name": "Tequila",
+      "description": "Tequila messicana, doppia distillazione, dal gusto robusto e aromatico.",
+      "price": 7.50
+    },
+    {
+      "name": "Brandy",
+      "description": "Brandy spagnolo invecchiato, dal sapore caldo e vellutato.",
+      "price": 8.50
+    },
+    {
+      "name": "Cognac",
+      "description": "Cognac francese invecchiato, con note di vaniglia e frutta secca.",
+      "price": 9.00
+    },
+    {
+      "name": "Grappa",
+      "description": "Grappa italiana, distillata da vinacce selezionate, dal gusto deciso.",
+      "price": 6.50
+    },
+    {
+      "name": "Amaretto",
+      "description": "Liquore italiano alle mandorle, dolce e aromatico.",
+      "price": 6.00
+    },
+    {
+      "name": "Limoncello",
+      "description": "Liquore italiano al limone, fresco e dolce, tipico della Costiera Amalfitana.",
+      "price": 6.50
+    },
+    {
+      "name": "Sambuca",
+      "description": "Liquore italiano all'anice, dolce e aromatico.",
+      "price": 6.00
+    },
+    {
+      "name": "Absinthe",
+      "description": "Assenzio francese, noto per il suo alto contenuto alcolico e il gusto di anice.",
+      "price": 10.00
+    }
+  ]
+}

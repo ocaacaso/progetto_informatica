@@ -1,0 +1,64 @@
+{
+  "categories" : [
+    {
+      "name" : "Caffetteria",
+      "json" : "json/cafeteria.json",
+      "img" : "img/cafeteria.svg",
+      "url" : "html/cafeteria.html"
+    },
+    {
+      "name" : "Pasticceria",
+      "json" : "json/pastries.json",
+      "img" : "img/pastries.svg",
+      "url" : "html/pastries.html"
+    },
+    {
+      "name" : "Snack",
+      "json" : "json/snacks.json",
+      "img" : "img/snacks.svg",
+      "url" : "html/snacks.html"
+    },
+    {
+      "name" : "Analcolici",
+      "json" : "json/soft-drinks.json",
+      "img" : "img/soft-drinks.svg",
+      "url" : "html/soft-drinks.html"
+    },
+    {
+      "name" : "Sandwich",
+      "json" : "json/sandwiches.json",
+      "img" : "img/sandwiches.svg",
+      "url" : "html/sandwiches.html"
+    },
+    {
+      "name" : "Pizze",
+      "json" : "json/pizzas.json",
+      "img" : "img/pizzas.svg",
+      "url" : "html/pizzas.html"
+    },
+    {
+      "name" : "Birre",
+      "json" : "json/beers.json",
+      "img" : "img/beers.svg",
+      "url" : "html/beers.html"
+    },
+    {
+      "name" : "Vini",
+      "json" : "json/wines.json",
+      "img" : "img/wines.svg",
+      "url" : "html/wines.html"
+    },
+    {
+      "name" : "Cocktail",
+      "json" : "json/cocktails.json",
+      "img" : "img/cocktails.svg",
+      "url" : "html/cocktails.html"
+    },
+    {
+      "name" : "Superalcolici",
+      "json" : "json/spirits.json",
+      "img" : "img/spirits.svg",
+      "url" : "html/spirits.html"
+    }
+  ]
+}

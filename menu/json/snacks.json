@@ -1,0 +1,44 @@
+{
+  "snacks": [
+    {
+      "name": "Patatine Fritte",
+      "description": "Croccanti patatine fritte servite con ketchup e maionese.",
+      "price": 4.00
+    },
+    {
+      "name": "Anelli di Cipolla",
+      "description": "Anelli di cipolla fritti, serviti con salsa barbecue.",
+      "price": 5.00
+    },
+    {
+      "name": "Nachos",
+      "description": "Tortilla chips servite con formaggio fuso, jalapeños e salsa guacamole.",
+      "price": 6.50
+    },
+    {
+      "name": "Mozzarella Sticks",
+      "description": "Bastoncini di mozzarella fritti, serviti con salsa marinara.",
+      "price": 5.50
+    },
+    {
+      "name": "Chicken Wings",
+      "description": "Ali di pollo fritte servite con salsa piccante e gorgonzola.",
+      "price": 8.00
+    },
+    {
+      "name": "Bruschetta",
+      "description": "Pane tostato con pomodoro fresco, basilico e olio d'oliva.",
+      "price": 4.50
+    },
+    {
+      "name": "Olive Ascolane",
+      "description": "Olive ripiene di carne, impanate e fritte, tipiche delle Marche.",
+      "price": 7.00
+    },
+    {
+      "name": "Popcorn",
+      "description": "Popcorn salati, perfetti per uno snack leggero.",
+      "price": 3.00
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "sandwiches": [
+    {
+      "name": "Classic BLT",
+      "ingredients": [
+        "Pane tostato",
+        "Bacon",
+        "Lattuga",
+        "Pomodoro",
+        "Maionese"
+      ],
+      "price": 7.00
+    },
+    {
+      "name": "Italian Sub",
+      "ingredients": [
+        "Pane baguette",
+        "Salame",
+        "Prosciutto",
+        "Provolone",
+        "Lattuga",
+        "Pomodoro",
+        "Peperoni",
+        "Olive",
+        "Olio e aceto"
+      ],
+      "price": 8.50
+    },
+    {
+      "name": "Chicken Avocado",
+      "ingredients": [
+        "Pane integrale",
+        "Pollo grigliato",
+        "Avocado",
+        "Lattuga",
+        "Pomodoro",
+        "Maionese"
+      ],
+      "price": 9.00
+    },
+    {
+      "name": "Caprese",
+      "ingredients": [
+        "Pane ciabatta",
+        "Mozzarella",
+        "Pomodoro",
+        "Basilico",
+        "Olio d'oliva",
+        "Aceto balsamico"
+      ],
+      "price": 7.50
+    },
+    {
+      "name": "Turkey Club",
+      "ingredients": [
+        "Pane tostato",
+        "Tacchino",
+        "Bacon",
+        "Lattuga",
+        "Pomodoro",
+        "Maionese"
+      ],
+      "price": 8.00
+    },
+    {
+      "name": "Veggie Delight",
+      "ingredients": [
+        "Pane integrale",
+        "Hummus",
+        "Avocado",
+        "Cetriolo",
+        "Pomodoro",
+        "Carota grattugiata",
+        "Lattuga"
+      ],
+      "price": 7.50
+    },
+    {
+      "name": "Roast Beef",
+      "ingredients": [
+        "Pane di segale",
+        "Roast beef",
+        "Cheddar",
+        "Cipolla caramellata",
+        "Rucola",
+        "Maionese"
+      ],
+      "price": 9.50
+    },
+    {
+      "name": "Tuna Salad",
+      "ingredients": [
+        "Pane integrale",
+        "Insalata di tonno",
+        "Lattuga",
+        "Pomodoro",
+        "Cetriolo"
+      ],
+      "price": 8.00
+    }
+  ]
+}

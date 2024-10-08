@@ -1,0 +1,83 @@
+{
+  "cocktails": [
+    {
+      "name": "Mojito",
+      "ingredients": [
+        "Rum bianco",
+        "Succo di lime",
+        "Zucchero di canna",
+        "Menta",
+        "Soda"
+      ],
+      "price": 8.50
+    },
+    {
+      "name": "Margarita",
+      "ingredients": [
+        "Tequila",
+        "Triple sec",
+        "Succo di lime",
+        "Sale"
+      ],
+      "price": 9.00
+    },
+    {
+      "name": "Cosmopolitan",
+      "ingredients": [
+        "Vodka",
+        "Triple sec",
+        "Succo di mirtillo",
+        "Succo di lime"
+      ],
+      "price": 10.00
+    },
+    {
+      "name": "Pina Colada",
+      "ingredients": [
+        "Rum bianco",
+        "Succo di ananas",
+        "Crema di cocco"
+      ],
+      "price": 9.50
+    },
+    {
+      "name": "Negroni",
+      "ingredients": [
+        "Gin",
+        "Vermouth rosso",
+        "Campari"
+      ],
+      "price": 8.00
+    },
+    {
+      "name": "Old Fashioned",
+      "ingredients": [
+        "Bourbon",
+        "Zucchero",
+        "Angostura",
+        "Acqua"
+      ],
+      "price": 11.00
+    },
+    {
+      "name": "Daiquiri",
+      "ingredients": [
+        "Rum bianco",
+        "Succo di lime",
+        "Zucchero"
+      ],
+      "price": 8.50
+    },
+    {
+      "name": "Mai Tai",
+      "ingredients": [
+        "Rum chiaro",
+        "Rum scuro",
+        "Triple sec",
+        "Sciroppo di orzata",
+        "Succo di lime"
+      ],
+      "price": 10.50
+    }
+  ]
+}

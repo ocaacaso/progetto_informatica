@@ -1,0 +1,44 @@
+{
+  "beers": [
+    {
+      "name": "Pilsner",
+      "description": "Birra chiara dal gusto fresco e leggermente amaro, originaria della Repubblica Ceca.",
+      "price": 5.00
+    },
+    {
+      "name": "IPA",
+      "description": "India Pale Ale con un intenso aroma di luppolo e note agrumate e floreali.",
+      "price": 6.50
+    },
+    {
+      "name": "Stout",
+      "description": "Birra scura con sapore di caffè e cioccolato, tipica dell'Irlanda.",
+      "price": 6.00
+    },
+    {
+      "name": "Weissbier",
+      "description": "Birra di frumento tedesca con un gusto fruttato e speziato.",
+      "price": 5.50
+    },
+    {
+      "name": "Amber Ale",
+      "description": "Birra ambrata con un bilanciato gusto di malto e luppolo.",
+      "price": 6.00
+    },
+    {
+      "name": "Saison",
+      "description": "Birra belga dal gusto speziato e leggermente acido, con note fruttate.",
+      "price": 7.00
+    },
+    {
+      "name": "Lager",
+      "description": "Birra chiara a bassa fermentazione, dal sapore pulito e rinfrescante.",
+      "price": 4.50
+    },
+    {
+      "name": "Porter",
+      "description": "Birra scura inglese dal sapore di caramello e cioccolato.",
+      "price": 6.50
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+figure {
+  height: 300px;
+  width: 300px;
+  padding: 40px;
+}
+
+div {
+  justify-content: center;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+
+span {
+  height: 20px;
+}
+
+#name {
+   float:left; 
+}
+
+#description {
+   float:left; 
+   clear: left;
+}
+
+.big {
+  display: flex;
+}
+
+.caption {
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.invisible {
+  display: none;
+  -webkit-user-select: none; /* Safari */
+  -ms-user-select: none; /* IE 10 and IE 11 */
+  user-select: none; /* Standard syntax */
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f7f7f7;
+}
+
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+h1 {
+  color: #333;
+}
+
+.product-item {
+  background-color: #fff;
+  border: 1px solid #ddd;
+  padding: 15px;
+  border-radius: 8px;
+}
+
+.product-item h5 {
+  font-size: 20px;
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+
+.ciao {
+  font-size: 20px;
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+
+.product-item .ingredients {
+  font-size: 16px;
+  color: #555;
+}
+
+.ingredients li {
+  list-style: square;
+  margin-left: 20px;
+}
+
+.add-product-form input, .add-product-form textarea {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  width: 100%;
+  font-size: 16px;
+}
+
+.add-product-form button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.add-product-form button:hover {
+  background-color: #0056b3;
+}

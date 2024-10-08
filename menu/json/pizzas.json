@@ -1,0 +1,91 @@
+{
+  "pizzas": [
+    {
+      "name": "Margherita",
+      "ingredients": [
+        "Pomodoro",
+        "Mozzarella",
+        "Basilico fresco",
+        "Olio d'oliva"
+      ],
+      "price": 7.00
+    },
+    {
+      "name": "Quattro Stagioni",
+      "ingredients": [
+        "Pomodoro",
+        "Mozzarella",
+        "Prosciutto",
+        "Funghi",
+        "Carciofi",
+        "Olive"
+      ],
+      "price": 9.50
+    },
+    {
+      "name": "Diavola",
+      "ingredients": [
+        "Pomodoro",
+        "Mozzarella",
+        "Salame piccante",
+        "Peperoncino"
+      ],
+      "price": 8.50
+    },
+    {
+      "name": "Capricciosa",
+      "ingredients": [
+        "Pomodoro",
+        "Mozzarella",
+        "Prosciutto",
+        "Funghi",
+        "Carciofi",
+        "Olive",
+        "Uovo"
+      ],
+      "price": 9.00
+    },
+    {
+      "name": "Vegetariana",
+      "ingredients": [
+        "Pomodoro",
+        "Mozzarella",
+        "Peperoni",
+        "Zucchine",
+        "Melanzane",
+        "Cipolla"
+      ],
+      "price": 8.00
+    },
+    {
+      "name": "Quattro Formaggi",
+      "ingredients": [
+        "Mozzarella",
+        "Gorgonzola",
+        "Parmigiano",
+        "Provolone"
+      ],
+      "price": 9.00
+    },
+    {
+      "name": "Prosciutto e Funghi",
+      "ingredients": [
+        "Pomodoro",
+        "Mozzarella",
+        "Prosciutto",
+        "Funghi"
+      ],
+      "price": 8.50
+    },
+    {
+      "name": "Marinara",
+      "ingredients": [
+        "Pomodoro",
+        "Aglio",
+        "Origano",
+        "Olio d'oliva"
+      ],
+      "price": 6.00
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "soft-drinks": [
+    {
+      "name": "Coca Cola",
+      "description": "Bevanda gassata classica al gusto di cola.",
+      "price": 2.5
+    },
+    {
+      "name": "Fanta",
+      "description": "Bevanda gassata all'arancia, dolce e rinfrescante.",
+      "price": 2.5
+    },
+    {
+      "name": "Sprite",
+      "description": "Bevanda gassata al limone e lime, leggera e frizzante.",
+      "price": 2.5
+    },
+    {
+      "name": "Acqua Naturale",
+      "description": "Acqua minerale naturale in bottiglia.",
+      "price": 1.5
+    },
+    {
+      "name": "Acqua Frizzante",
+      "description": "Acqua minerale frizzante in bottiglia.",
+      "price": 1.5
+    },
+    {
+      "name": "Tè Freddo al Limone",
+      "description": "Tè freddo aromatizzato al limone, dolce e rinfrescante.",
+      "price": 3
+    },
+    {
+      "name": "Tè Freddo alla Pesca",
+      "description": "Tè freddo aromatizzato alla pesca, dolce e rinfrescante.",
+      "price": 3
+    },
+    {
+      "name": "Succhi di Frutta",
+      "description": "Succhi di frutta assortiti: arancia, mela, pesca.",
+      "price": 3
+    },
+    {
+      "name": "Limonata",
+      "description": "Bevanda fresca al gusto di limone, perfetta per dissetarsi.",
+      "price": 3
+    },
+    {
+      "name": "Ginger Ale",
+      "description": "Bevanda gassata al gusto di zenzero, leggermente piccante.",
+      "price": 2.5
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "wines": [
+    {
+      "name": "Chianti Classico",
+      "description": "Vino rosso toscano, robusto e aromatico, con note di ciliegia e spezie.",
+      "price": 18.00
+    },
+    {
+      "name": "Pinot Grigio",
+      "description": "Vino bianco leggero e fresco, con note di mela verde e agrumi.",
+      "price": 15.00
+    },
+    {
+      "name": "Barolo",
+      "description": "Vino rosso piemontese, complesso e strutturato, con sentori di frutti di bosco e tartufo.",
+      "price": 35.00
+    },
+    {
+      "name": "Prosecco",
+      "description": "Vino spumante veneto, fresco e frizzante, con note di mela e pera.",
+      "price": 12.00
+    },
+    {
+      "name": "Sauvignon Blanc",
+      "description": "Vino bianco aromatico, con note di pesca e fiori bianchi.",
+      "price": 16.00
+    },
+    {
+      "name": "Amarone della Valpolicella",
+      "description": "Vino rosso veneto, ricco e corposo, con sentori di ciliegia secca e cioccolato.",
+      "price": 40.00
+    },
+    {
+      "name": "Rosé",
+      "description": "Vino rosato fresco e fruttato, con note di fragola e melone.",
+      "price": 14.00
+    },
+    {
+      "name": "Chardonnay",
+      "description": "Vino bianco equilibrato e complesso, con note di burro e vaniglia.",
+      "price": 20.00
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "pastries": [
+    {
+      "name": "Cornetto Classico",
+      "description": "Cornetto fragrante con un leggero aroma di burro.",
+      "price": 1.50
+    },
+    {
+      "name": "Cornetto alla Marmellata",
+      "description": "Cornetto ripieno di marmellata di albicocche.",
+      "price": 1.80
+    },
+    {
+      "name": "Cornetto al Cioccolato",
+      "description": "Cornetto ripieno di crema al cioccolato.",
+      "price": 2.00
+    },
+    {
+      "name": "Cornetto Integrale",
+      "description": "Cornetto integrale ripieno di miele.",
+      "price": 2.00
+    },
+    {
+      "name": "Cornetto alla Crema",
+      "description": "Cornetto ripieno di crema pasticcera.",
+      "price": 2.00
+    },
+    {
+      "name": "Pain au Chocolat",
+      "description": "Pasta sfoglia ripiena di barrette di cioccolato fondente.",
+      "price": 2.20
+    },
+    {
+      "name": "Brioche con Uvetta",
+      "description": "Brioche morbida con uvetta.",
+      "price": 1.80
+    },
+    {
+      "name": "Sfogliatella",
+      "description": "Pasta sfoglia croccante ripiena di ricotta e canditi.",
+      "price": 2.50
+    },
+    {
+      "name": "Cannoncino",
+      "description": "Cannolo di pasta sfoglia ripieno di crema pasticcera.",
+      "price": 2.00
+    },
+    {
+      "name": "Pastiera Napoletana",
+      "description": "Dolce tipico napoletano a base di ricotta, grano cotto e canditi.",
+      "price": 3.00
+    },
+    {
+      "name": "Torta della Nonna",
+      "description": "Crostata con crema pasticcera e pinoli.",
+      "price": 2.50
+    },
+    {
+      "name": "Crostatina alla Marmellata",
+      "description": "Piccola crostata con marmellata di frutta.",
+      "price": 1.50
+    }
+  ]
+}
