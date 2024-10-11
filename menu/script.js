@@ -1,9 +1,7 @@
 async function start() {
 
   let json_path = 'json/menu.json';
-
   let response = await fetch(json_path);
-
   let json = await response.json();
 
   for (let i = 0; i < json.categories.length; i++) {
@@ -32,9 +30,14 @@ async function start() {
   }
 }
 
-function description(ul, items) {
+
+
+
+
+
+function description(items) {
   for (let item of items) {
-    const productCard = `
+    let productCard = `
             <div class="col-md-4">
                 <div class="card h-100">
                     <div class="card-body">
@@ -53,13 +56,13 @@ function description(ul, items) {
 
 
 function ingredients(ul, items) {
-  const productList = document.getElementById('product-list');
+  let productList = document.getElementById('product-list');
 
   items.forEach(item => {
-    const productCard = document.createElement('div');
+    let productCard = document.createElement('div');
     productCard.classList.add('col-md-4');
 
-    const productItem = `
+    let productItem = `
             <div class="product-item">
                 <h5>
                     ${item.name}
@@ -76,13 +79,67 @@ function ingredients(ul, items) {
   });
 }
 
-async function loadDescription(category) {
-  let ul = document.getElementById(category);
+function cafeteria(coffees, teas, herbalTeas) {
+  for (let item of coffees) {
+    let productCard = `
+            <div class="col-md-4">
+                <div class="card h-100">
+                    <div class="card-body">
+                        <h5 class="ciao" >
+                            ${item.name}
+                            <span class="price">€${item.price.toFixed(2)}</span>
+                        </h5>
+                        <p class="card-text">${item.description}</p>
+                    </div>
+                </div>
+            </div>`;
 
+    document.getElementById('product-list1').insertAdjacentHTML('beforeend', productCard);
+  }
+  for (let item of teas) {
+    let productCard = `
+            <div class="col-md-4">
+                <div class="card h-100">
+                    <div class="card-body">
+                        <h5 class="ciao" >
+                            ${item.name}
+                            <span class="price">€${item.price.toFixed(2)}</span>
+                        </h5>
+                        <p class="card-text">${item.description}</p>
+                    </div>
+                </div>
+            </div>`;
+
+    document.getElementById('product-list2').insertAdjacentHTML('beforeend', productCard);
+  }
+  for (let item of herbalTeas) {
+    let productCard = `
+            <div class="col-md-4">
+                <div class="card h-100">
+                    <div class="card-body">
+                        <h5 class="ciao" >
+                            ${item.name}
+                            <span class="price">€${item.price.toFixed(2)}</span>
+                        </h5>
+                        <p class="card-text">${item.description}</p>
+                    </div>
+                </div>
+            </div>`;
+
+    document.getElementById('product-list3').insertAdjacentHTML('beforeend', productCard);
+  }
+}
+
+
+
+
+
+
+async function loadDescription(category) {
   let response = await fetch(`../json/${category}.json`);
   let json = await response.json();
   let list = json[category];
-  description(ul, list);
+  description(list);
 }
 
 async function loadIngredients(category) {
@@ -93,3 +150,16 @@ async function loadIngredients(category) {
   let list = json[category];
   ingredients(ul, list);
 }
+
+async function loadCafeteria(category) {
+
+  let response = await fetch(`../json/${category}.json`);
+  let data = await response.json();
+
+  let coffees = data.coffees;
+  let teas = data.teas;
+  let herbalTeas = data.herbal_teas;
+
+  cafeteria(coffees, teas, herbalTeas);
+}
+

@@ -3,6 +3,10 @@ function start() {
     regexp = /\+?39\s?\d{3}-?\d{6,7}/gmi
     let found = regexp.test(phone);
 
+    if (!found) {
+        alert("Inserisci un numero di telefono valido");
+    }
+
     let input = document.getElementById("data-nascita").value;
 
     if (!input) {

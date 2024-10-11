@@ -1,7 +1,4 @@
 <!DOCTYPE html>
-<html>
-
-  <!doctype html>
   <html lang="en">
     <head>
       <meta charset="utf-8">
@@ -13,18 +10,26 @@
       <link href="style.css" rel="stylesheet" type="text/css" />
 
     </head>
-    <body onload="">
-      <p><a href="../index.html">Home</a> / Coffees</p>
+    <body onload="loadCafeteria('cafeteria')">
+      <p><a href="../index.html">Home</a> / Caffetteria</p>
       <p class="invisible" id="id">si</p>
 
       <div class="big">
         <figure class="figure">
           <img src="../img/cafeteria.svg" class="figure-img rounded">
-            <p class="caption">COFFEES</p>
+            <p class="caption">CAFFETTERIA</p>
         </figure>
       </div>
 
-
+      <div class="container-fluid">
+        <div id="product-list1" class="row gy-4"></div>
+      </div>
+      <div class="container-fluid">
+        <div id="product-list2" class="row gy-4"></div>
+      </div>
+      <div class="container-fluid">
+        <div id="product-list3" class="row gy-4"></div>
+      </div>
 
 
       <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js" integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous"></script>
