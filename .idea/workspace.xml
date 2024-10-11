@@ -4,19 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d08dba21-e177-40c1-ba6b-f5d98394ee9f" name="Changes" comment="manca cafeteria">
+    <list default="true" id="d08dba21-e177-40c1-ba6b-f5d98394ee9f" name="Changes" comment="Cafeteria aggiunta">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/menu/html/beers.html" beforeDir="false" afterPath="$PROJECT_DIR$/menu/html/beers.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/menu/html/cafeteria.html" beforeDir="false" afterPath="$PROJECT_DIR$/menu/html/cafeteria.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/menu/html/pastries.html" beforeDir="false" afterPath="$PROJECT_DIR$/menu/html/pastries.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/menu/html/pizzas.html" beforeDir="false" afterPath="$PROJECT_DIR$/menu/html/pizzas.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/menu/html/sandwiches.html" beforeDir="false" afterPath="$PROJECT_DIR$/menu/html/sandwiches.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/menu/html/soft-drinks.html" beforeDir="false" afterPath="$PROJECT_DIR$/menu/html/soft-drinks.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/menu/html/spirits.html" beforeDir="false" afterPath="$PROJECT_DIR$/menu/html/spirits.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/menu/html/wines.html" beforeDir="false" afterPath="$PROJECT_DIR$/menu/html/wines.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/menu/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/menu/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/menu/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/menu/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,8 +96,18 @@
       <workItem from="1728496520421" duration="59000" />
       <workItem from="1728496586196" duration="2290000" />
       <workItem from="1728572701316" duration="586000" />
-      <workItem from="1728634828498" duration="7721000" />
+      <workItem from="1728634828498" duration="10244000" />
+      <workItem from="1728675414221" duration="312000" />
     </task>
+    <task id="LOCAL-00001" summary="Cafeteria aggiunta">
+      <option name="closed" value="true" />
+      <created>1728643992048</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728643992048</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,6 +126,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="manca cafeteria" />
-    <option name="LAST_COMMIT_MESSAGE" value="manca cafeteria" />
+    <MESSAGE value="Cafeteria aggiunta" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cafeteria aggiunta" />
   </component>
 </project>
